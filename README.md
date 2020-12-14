@@ -7,4 +7,6 @@ names head. 👋
 + I hate c-langs (they copied java, FIGHT ME) 👎
 + heres meh discord :0 - head;#8429
 
+heres some stats :3
+![](https://komarev.com/ghpvc/?username=headiscoding&color=blue)
 seeya!
