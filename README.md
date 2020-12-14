@@ -7,7 +7,7 @@ names head. 👋
 + I hate c-langs (they copied java, FIGHT ME) 👎
 + heres meh discord :0 - head;#8429
 
-heres some stats :3
+### heres some stats :3
 
 ![](https://komarev.com/ghpvc/?username=headiscoding&color=blue)
 
@@ -21,4 +21,4 @@ heres some stats :3
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=headiscoding&theme=dark" alt="headiscoding" /></p>
 
-seeya!
+## seeya!
