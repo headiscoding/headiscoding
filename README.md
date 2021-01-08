@@ -5,7 +5,7 @@ names head. 👋
 + I like to program as a hobby 👨‍💻
 + I like parrots and have 4 of 'em 🦜 
 + I hate c-langs (exeptions c#, its cool. BUT, they copied java, FIGHT ME) 👎
-+ heres meh discord :0 - head;#8429
++ heres meh discord :0 - head;#0455
 
 ### heres some stats :3
 
