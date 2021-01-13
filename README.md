@@ -2,7 +2,7 @@
 
 names head. 👋
 
-+ I like to program as a hobby and am making a discord bot named [Moby!](https://github.com/headiscoding/moby)👨‍💻
++ I like to program as a hobby and am making a discord bot named [Moby!](https://github.com/headiscoding/moby) 👨‍💻
 + I like parrots and have 4 of 'em 🦜 
 + I hate c-langs (exeptions c#, its cool. BUT, they copied java, FIGHT ME) 👎
 + heres meh discord :0 - head;#4200
