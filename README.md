@@ -6,9 +6,8 @@
     
 [<img src="https://github.com/fluidicon.png" alt="GitHub" height="28" />][me/gh] &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/768px-Repl.it_logo.svg.png" alt="Replit" height="28" />][me/repl] &nbsp;
-[<img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/6/b/1/6b16738af0d9f6edcf80e09e6bf38a4c9e7cfb83.png" alt="Roblox DevForum" height="28" />][me/rbxdev] &nbsp;
-[<img src="https://camo.githubusercontent.com/490c1391f957c8702c718172f34b7ff079d8c8ec/68747470733a2f2f63646e2e6472696262626c652e636f6d2f6173736574732f6472696262626c652d62616c6c2d3139322d323365636264663938373833323233316538376336343262623235646538323161663162613637333461363236633863323539613230613063613531613234372e706e67" alt="Dribbble" height="28" />][me/dribbble] &nbsp;
-[<img src="https://img.icons8.com/fluent/2x/microsoft-outlook-2019.png" alt="Email" height="28" />][me/mail]
+[<img src="https://th.bing.com/th/id/R88ca8b41102aa4f3729e03bb27f03589?rik=Fwu4%2bZMVa1uHhw&riu=http%3a%2f%2fsub1.kevinchisholm.com%2fblog%2fimages%2fstack-overflow.logo.png&ehk=e1RcFO1PohAZ7KMtdwPwN7NX4qj%2bCt4o6JB4QC97c44%3d&risl=&pid=ImgRaw" alt="Stackoverflow" height="28" />][me/overflow] &nbsp;
+[<img 
 
 <sub>
 Or you can contact me on discord
@@ -24,6 +23,5 @@ head;#4200
 
 [me/gh]: https://github.com/headiscoding
 [me/repl]: https://repl.it/@headiscoding
-[me/rbxdev]: https://devforum.roblox.com/u/csqrl
-[me/dribbble]: https://dribbble.com/csqrl
-[me/mail]: mailto://csqrl+gh@outlook.com
+[me/overflow]: https://stackoverflow.com/users/14657955/headiscoding?tab=profile
+
