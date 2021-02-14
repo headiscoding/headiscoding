@@ -14,7 +14,7 @@
 Or you can contact me on discord
 </sub>
 
-```css
+```css js
 head;#4200
 ```
 
