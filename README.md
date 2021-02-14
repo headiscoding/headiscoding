@@ -11,10 +11,10 @@
 [<img src="https://img.icons8.com/fluent/2x/microsoft-outlook-2019.png" alt="Email" height="28" />][me/mail]
 
 <sub>
-or drop me a message on Discord
+Or you can contact me on discord
 </sub>
 
-```
+```js
 head;#4200
 ```
 
