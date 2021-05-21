@@ -18,7 +18,7 @@ Or you can contact me on discord
 </sub>
 
 ```js
-head;#6253
+head#6253
 ```
 
 
