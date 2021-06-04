@@ -26,6 +26,5 @@ head#6253
 </div>
 
 [me/gh]: https://github.com/headiscoding
-[me/repl]: https://repl.it/@headiscoding
 [me/overflow]: https://stackoverflow.com/users/14657955/headiscoding?tab=profile
 [me/reddit]: https://reddit.com/u/headisredditing
