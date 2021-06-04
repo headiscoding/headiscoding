@@ -9,7 +9,6 @@
   <p>
     
 [<img src="https://github.com/fluidicon.png" alt="GitHub" height="28" />][me/gh] &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/768px-Repl.it_logo.svg.png" alt="Replit" height="28" />][me/repl] &nbsp;
 [<img src="https://th.bing.com/th/id/R88ca8b41102aa4f3729e03bb27f03589?rik=Fwu4%2bZMVa1uHhw&riu=http%3a%2f%2fsub1.kevinchisholm.com%2fblog%2fimages%2fstack-overflow.logo.png&ehk=e1RcFO1PohAZ7KMtdwPwN7NX4qj%2bCt4o6JB4QC97c44%3d&risl=&pid=ImgRaw" alt="Stackoverflow" height="28" />][me/overflow] &nbsp;
 [<img src="https://i.redd.it/rq36kl1xjxr01.png" alt="reddit" height="28" />][me/reddit] &nbsp;
 
