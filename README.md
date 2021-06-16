@@ -20,7 +20,7 @@ Or you can contact me on discord
 head#6253
 ```
 
-
+Currently working with and Arduino and C++
   </p>
 </div>
 
